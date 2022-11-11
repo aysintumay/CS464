@@ -1,5 +1,5 @@
 # CS464
-Homeworks and Project of CS465-Introduction to Machine Learning course in Bilkent University
+Homeworks and Project of CS465-Introduction to Machine Learning course in Bilkent University, Fall 2022.
 Python 3 is used on Juypter Notebook. 
 
 The BBC Sports News dataset is used.  The goal is to predict the class  of the sports news in the validation set. The class labels (the last column) are from 0 to  4.  There are 4613 words. Training data has 552 documents while test data has 185 documents. The train and validation sets are uploaded on the Jupyter notebook files of the related directory.  
